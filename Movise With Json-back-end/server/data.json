@@ -1,0 +1,98 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "moviesName": "Spider-Man: Across the Spider-Verse",
+            "img": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+        },
+        {
+            "id": 2,
+            "moviesName": "Cobweb",
+            "img": "https://image.tmdb.org/t/p/w500/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg"
+        },
+        {
+            "id": 3,
+            "moviesName": "Elemental",
+            "img": "https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg"
+        },
+        {
+            "id": 4,
+            "moviesName": "Oppenheimer",
+            "img": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+        },
+        {
+            "id": 5,
+            "moviesName": "Guardians of the Galaxy Vol. 3",
+            "img": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+        },
+        {
+            "id": 6,
+            "moviesName": "The Flash",
+            "img": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg"
+        },
+        {
+            "id": 7,
+            "moviesName": "The Little Mermaid",
+            "img": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg"
+        },
+        {
+            "id": 8,
+            "moviesName": "Fast X",
+            "img": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
+        },
+        {
+            "id": 9,
+            "moviesName": "Insidious: The Red Door",
+            "img": "https://image.tmdb.org/t/p/w500/d07phJqCx6z5wILDYqkyraorDPi.jpg"
+        }
+
+    ],
+    "actors": [
+        {
+            "id": 1,
+            "moviesName": "Harrison Ford",
+            "img": "https://image.tmdb.org/t/p/w500/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+        },
+        {
+            "id": 2,
+            "moviesName": "Arnold Schwarzenegger",
+            "img": "https://image.tmdb.org/t/p/w500/zEMhugsgXIpnQqO31GpAJYMUZZ1.jpg"
+        },
+        {
+            "id": 3,
+            "moviesName": "Will Smith",
+            "img": "https://image.tmdb.org/t/p/w500/6a6cl4ZNufJzrx5HZKWPU1BjjRF.jpg"
+        },
+        {
+            "id": 4,
+            "moviesName": "Bruce Willis",
+            "img": "https://image.tmdb.org/t/p/w500/eKzKdhqk3RnGTeDju1eOBxdOk3c.jpg"
+        },
+        {
+            "id": 5,
+            "moviesName": "Sylvester Stallone",
+            "img": "https://image.tmdb.org/t/p/w500/qDRGPAcQoW8Wuig9bvoLpHwf1gU.jpg"
+        },
+        {
+            "id": 6,
+            "moviesName": "Jet Li",
+            "img": "https://image.tmdb.org/t/p/w500/5a6u17dAf11kLvdRUG6QdoRRURj.jpg"
+        },
+        {
+            "id": 7,
+            "moviesName": "Johnny Depp",
+            "img": "https://image.tmdb.org/t/p/w500/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
+        },
+        {
+            "id": 8,
+            "moviesName": "Keanu Reeves",
+            "img": "https://image.tmdb.org/t/p/w500/rRdru6REr9i3WIHv2mntpcgxnoY.jpg"
+        },
+        {
+            "id": 9,
+            "moviesName": "Scarlett Johansson",
+            "img": "https://image.tmdb.org/t/p/w500/zmvK1jJ6UZpAAeMMgdEOWir0kQN.jpg"
+        }
+
+    ]
+}
